@@ -13,7 +13,7 @@ title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: gmini.y@gmail.com
 name: Jimin Yeon
-description: 천천히 해요, 천천히
+description: "천천히 해요, 천천히"
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
@@ -124,7 +124,7 @@ social:
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
