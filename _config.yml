@@ -19,7 +19,7 @@ description: ""
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gminiy.github.io" # the base hostname & protocol for your site
-cover: "/assets/header.jpg"
+cover: "/assets/IMG_4859.JPG"
 logo: "/assets/logo.png"
 
 # Build settings
