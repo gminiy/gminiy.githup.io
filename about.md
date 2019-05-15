@@ -28,4 +28,4 @@ permalink: /about/
 
 <center>그대 자신에게나 타인에게나 결코 무례한 일이 아니니까.
 
-<center>돈 후앙, 야키 족 치료사
+<center>- 돈 후앙, 야키 족 치료사
